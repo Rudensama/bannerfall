@@ -1,0 +1,42 @@
+# Godot 4+ specific ignores
+.godot/
+.import/
+.android/
+
+# Local editor/project settings
+.vscode/
+.idea/
+
+# Generated or temporary files
+export_presets.cfg
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+*.swn
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# Mono / C# build artifacts
+.mono/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.dll
+*.exe
+*.obj
+*.cache/
+
+# Built assets and exports
+*.import
+*.pack
+*.zip
+*.pck
+*.apk
+*.aab

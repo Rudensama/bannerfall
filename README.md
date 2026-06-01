@@ -50,7 +50,3 @@ This repository is currently aimed at a continuous tuning prototype rather than 
 
 - The design is based on the GDD files found in `documents/gdd/`.
 - This README is intended as a GitHub-facing summary of the current game vision and prototype direction.
-
-## License
-
-Add your preferred license here.
